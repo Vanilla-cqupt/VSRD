@@ -8,13 +8,13 @@ Users can submit amino acid sequences through the web interface, and the backend
 
 ## ✨ Features
 
-- 📊 **VSR Dataset Management** - Browse and manage VSR-related data
-- 📈 **Interactive Visualization** - Dynamic charts powered by ECharts
-- 🔍 **Multi-condition Search** - Flexible filtering and search capabilities
-- 💾 **Data Download** - Export datasets for offline analysis
-- 🧬 **Sequence Prediction** - Online amino acid sequence analysis
-- 🤖 **ML Classification** - ESM-2+XGBoost-based VSR functional prediction
-- 🐳 **Dockerized Deployment** - Easy deployment with container technology
+- **VSR Dataset Management** - Browse and manage VSR-related data
+- **Interactive Visualization** - Dynamic charts powered by ECharts
+- **Multi-condition Search** - Flexible filtering and search capabilities
+- **Data Download** - Export datasets for offline analysis
+- **Sequence Prediction** - Online amino acid sequence analysis
+- **ML Classification** - ESM-2+XGBoost-based VSR functional prediction
+- **Dockerized Deployment** - Easy deployment with container technology
 
 ---
 
