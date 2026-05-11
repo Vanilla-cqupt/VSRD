@@ -80,4 +80,4 @@ Binary classification (VSR / Non-VSR)
 CLS features extracted by the protein large language model ESM-2
 
 - ### Performance:
- Achieves **96.7%** accuracy, **93.3%** precision, **0.98** AUC , **90.41%** PR AUC, **99.42%** specificity on the validation set. In an independent test set containing 30 samples, the model correctly identified 6 out of 10 VSRs and correctly identified all 20 non VSRs.
+ Accuracy **96.7%**, precision **93.3%**, AUC **0.98**, PR AUC **0.90**, specificity **99.42%**, MCC **0.81** and F1-score **0.82** on the validation set. In an independent test set containing 30 samples, the model correctly identified 6 out of 10 VSRs and correctly identified all 20 non VSRs.
